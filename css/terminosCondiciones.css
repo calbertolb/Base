@@ -1,0 +1,9 @@
+body {
+    background-image: url('../img/macetasTerminos.jpg');
+    background-size: 100%;
+}
+
+.card{
+    opacity: 90%;
+    margin-top: 30px;
+}
